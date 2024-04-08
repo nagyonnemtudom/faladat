@@ -1,0 +1,11 @@
+#container{
+    width: 80%;
+    background-color: beige;
+    display: block;
+    margin: auto;
+
+}
+#header{
+    height: 70px;
+    text-align: center;
+}
