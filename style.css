@@ -1,11 +1,14 @@
-#container{
-    width: 80%;
-    background-color: beige;
-    display: block;
-    margin: auto;
-
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
 }
 #header{
-    height: 70px;
+    background-color: rgb(33, 58, 139);
     text-align: center;
+    margin: auto;
+    width: 80%;
+    padding: 40px;
+    color: antiquewhite
+    
 }
